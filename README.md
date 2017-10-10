@@ -4,6 +4,9 @@ Co-authored paper on the Statistics involved in DNS Research, as well as the bes
 Supporting Files for Root Server Statistics Paper
 
 all.gz            Extracted Data (>1GB)
+
 getresults.perl		Perl Scirpt to get Data via RIPE Atlas API
+
 RIPE.R			      Analysis Code
+
 R_Probes.txt		  Probe Metadata (Vantage Points)
